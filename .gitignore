@@ -1,0 +1,5 @@
+backend/venv/*
+backend/sqlbro/queryapp/__pycache__
+backend/sqlbro/queryapp/migrations
+backend/sqlbro/sqlbro/__pycache__
+backend/sqlbro/.env
